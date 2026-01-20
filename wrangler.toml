@@ -1,4 +1,6 @@
 name = "vless2sub-worker"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
+# wrangler.toml
+name = 'sub'
 keep_vars = true
